@@ -1,0 +1,23 @@
+body {
+	background-color: #FFFFFF; /* Make page background red. */
+}
+a {
+	color: pink;
+}
+a:hover {
+	color: black;
+}
+p {
+	color: red;
+}
+.bluePs {
+	color: blue;
+	font-weight: bold;
+}
+ul li {
+	color: #BBFFBB;
+}
+
+ol li {
+	color: purple;
+}
